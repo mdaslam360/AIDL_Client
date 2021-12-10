@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AIDL_Client" parent="Theme.AppCompat" />
+</resources>
